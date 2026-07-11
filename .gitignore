@@ -1,0 +1,6 @@
+*.log
+*_status.json
+*_dryrun.json
+*.tmp
+.DS_Store
+Thumbs.db

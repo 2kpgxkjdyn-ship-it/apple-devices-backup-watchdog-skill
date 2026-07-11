@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Devices Backup Watchdog"
+  short_description: "Safely relocate and monitor iPhone backups"
+  default_prompt: "Use $apple-devices-backup-watchdog-skill to relocate and monitor my Apple Devices iPhone backup safely."
